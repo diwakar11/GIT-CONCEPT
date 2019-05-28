@@ -1,0 +1,296 @@
+
+-----------------------------------------------------------------------------------
+BASICS:-
+
+The Basics Overview 
+Preview
+00:42
+Initialization 
+Preview
+01:28
+Git States 
+01:23
+First Commit 
+03:04
+Repository and the Git Folder 
+01:59
+Starting with Existing Project 
+01:56
+Commits and Messages 
+02:01
+Commit Details with Log and Show 
+01:16
+Express Commits 
+02:58
+Backing Out Changes 
+02:12
+History and Making New Commands with Alias 
+03:50
+Rename and Delete Files 
+03:08
+Managing Files Outside of Git 
+03:06
+Excluding Unwanted Files 
+
+--------------------------------------------------------------------------------------
+
+ADVANCED BEYOND BASICS
+
+
+Advanced Overview 
+Preview
+00:35
+Comparing Differences 
+Preview
+02:39
+Branching and Merge Types 
+02:02
+Special Markers 
+00:37
+Simple Branching Example 
+04:56
+Conflict Resolution 
+04:50
+Marking Special Events with Tagging 
+02:38
+Saving Work in Progress with Stashing 
+02:17
+Time Travel with Reset and Reflog 
+05:23
+--------------------------------------------------------------------------------------------
+
+Welcome to GITHUB
+
+Welcome to GitHub Overview 
+01:04
+Signup for GitHub 
+02:06
+GitHub Profile 
+02:23
+GitHub Settings 
+02:34
+Creating a GitHub Repository 
+01:13
+Linking to our GitHub Repository 
+02:19
+Pushing Changes to GitHub 
+02:29
+Verifying our Changes on GitHub 
+----------------------------------------------------------------------------------------------
+
+SSH AUTHENCITAION:-
+
+
+Authentication Overview 
+00:41
+SSH vs HTTPS 
+01:49
+Generating an SSH Key 
+02:21
+Verify SSH Authentication with GitHub 
+02:37
+
+--------------------------------------------------------------------------------------------------
+
+GITHUB REPOSITORY:-
+
+GitHub Repository Overview 
+Preview
+00:38
+Starting Remote with a Starter Repository 
+Preview
+01:11
+Create a Local Copy with Clone 
+03:42
+Seeding the Repository with Sample Content 
+03:03
+Publish Back to GitHub 
+01:54
+Fetch and Pull 
+03:53
+Repository Features and Settings 
+02:58
+Updating Repository and Remote References 
+01:55
+Looking at Files and Folders on GitHub 
+00:55
+Directly Editing Files on GitHub 
+02:38
+Creating a New Files on GitHub 
+02:40
+Creating a New File on Master 
+01:10
+Renaming and Deleting Files on GitHub 
+02:08
+Synchronizing our Changes with our Local Repository 
+01:31
+Reviewing Commits with the Commit List 
+00:58
+Commit Details: Going Deeper 
+03:17
+GitHub Time Travel: Reviwing Your Repository as of a Particular Commit 
+01:33
+Using Commit IDs with the Local Repository 
+------------------------------------------------------------------------------------------------
+GITHUB REPOSITORY BRANCHES:-
+
+Repository Branches Overview 
+00:18
+Creating Branches on GitHub 
+02:54
+Local Branches 
+03:33
+Comparing and Pull Requests 
+05:23
+Merging Locally 
+05:26
+Locally Switch to a Branch on GitHub 
+03:57
+Cleaning Up By Deleting Branches and References 
+03:49
+Pull with Rebase 
+04:36
+GitHub Graphs 
+01:51
+Setting the Default Branch 
+05:08
+Dealing with a Conflict while Pulling 
+
+------------------------------------------------------------------------------------------------------------
+
+GITHUB TAG AND RELEASES:-
+
+Tags and Releases Overview 
+00:23
+Local Tags (a bit of Review) 
+04:27
+Pushing Local Tags to GitHub 
+03:27
+Tags on GitHub 
+02:18
+Deleting Tags on GitHub 
+02:42
+Updating Tags: Creating a Floating Tag 
+03:56
+Starting a Release on GitHub 
+02:52
+Deleting a Release 
+01:30
+Creating a Completely New Release 
+
+---------------------------------------------------------------------------------------------------------
+COMPARING DIFFERENCES:-
+
+Comparing Differences Overview 
+00:23
+Comparing with Pull Requests 
+01:32
+Comparing Commits 
+02:45
+Comparing Tags 
+01:23
+Advanced Comparing: Even More Fun 
+
+---------------------------------------------------------------------------------------------------
+
+SOCIAL CODING :-
+
+Social Coding Overview 
+00:42
+Copying A GitHub Repository by Forking 
+02:10
+Creating A Branch on Your Fork 
+02:42
+Pull Requests 
+01:54
+Updating Pull Requests 
+03:03
+Accepting the Pull Request 
+04:41
+GitHub Graphs 
+02:53
+Synchronize Changes Back to Your Fork 
+06:32
+Enlisting Help with Collaborators 
+
+-------------------------------------------------------------------------------------------------
+GITHUB ISSUES:-
+
+GitHub Issues Overview 
+00:27
+An Introduction to GitHub Issues 
+01:01
+Setting Up Issue Labels 
+02:33
+Setting Up Milestones 
+02:38
+Creating Issues 
+03:11
+Closing Issues 
+02:04
+Associating Issues with Commits 
+02:50
+Using Mentions with Issues 
+
+-----------------------------------------------------------------------------------------------
+
+GITHUB GISTS
+
+GitHub Gists Overview 
+00:37
+Creating Gists 
+02:32
+Working with Gists Locally 
+02:24
+Sharing Gists 
+01:05
+Deleting Gists 
+
+------------------------------------------------------------------------------------------------------
+GITHUB ORGANIZATION:-
+
+GitHub Organizations Overview 
+01:28
+Creating a GitHub Organization 
+02:24
+Transferring a Repository to the Organization
+02:17
+Forking Back to Your Account 
+01:43
+Updating Remote Referneces on the Local side 
+03:59
+Branches and Confusion 
+03:32
+Organizations vs Personal Account 
+02:16
+Working with Teams 
+05:00
+Team Permissions 
+02:46
+Managing Teams 
+02:18
+Organization's Profile 
+03:42
+Destructive Actions 
+
+----------------------------------------------------------------------------------------------------------
+
+Windows Full Install Overview 
+02:23
+Git for Windows Installation 
+05:37
+Git Bash Window Adjustments 
+02:05
+Git for Windows: Gitting Help 
+01:10
+Git for Windows: Minimal Configuration 
+03:18
+Notepad++ Installation 
+05:18
+Notepad++ Git Integration 
+04:40
+P4Merge Installation 
+05:35
+P4Merge Git Integration 
+
+------------------------------------------------------------------------------------------------------------
